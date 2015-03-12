@@ -1,0 +1,45 @@
+{
+	"people":[
+		{	
+			"id":"walter",
+			"name":"Walter White",
+			"email":"WalterWhite@gmail.com",
+			"title": "Chemestry Teacher",
+			"company": "New Mexico State School",
+			"phone" : "123-love-chemestry"
+		},
+		{
+			"id":"haisemberg",
+			"name":"Haisemberg",
+			"email":"the_one_who_knocks@gmail.com",
+			"title": "Master Cook",
+			"company": "Haisemberg Inc",
+			"phone" : "123-this-is-my-product"
+		},
+		{
+			"id":"Jesse",
+			"name":"Jesse Pinkman",
+			"email":"jesse@yobitch.com",
+			"title": "Jesse low life",
+			"company": "Yo Bitch!",
+			"phone" : "123-bitch"
+		},
+		{
+			"id":"hank",
+			"name":"Hank Schrader",
+			"email":"Hank@thePolice.com",
+			"title": "Hank the boss",
+			"company": "DEA",
+			"phone" : "123-I-will-catch-you"
+		},
+		{
+			"id":"saul",
+			"name":"Saul Goodman",
+			"email":"saul@bettercallsaul.com",
+			"title": "The Lawyer",
+			"company": "Saul Goodman Attorney at law",
+			"phone" : "123-you-better-call-saul"
+		}
+		
+	]
+}

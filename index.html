@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>jQuery Searchable List</title>
+	<link rel="stylesheet" type="text/css" href="main.css">
+	</head>
+	<body>
+	<div id="saerchWrapper">
+		<label>Search name:</label>
+		<input id="search" type="text" />
+		<span class="clear">x</span>
+		<div class="checkWrapper">
+			<input name="style" id="doHide" type="radio" checked><label for="doHide">Hide</label> 
+			<input name="style" id="doHighlight" type="radio"><label for="doHighlight">Highlight</label>
+		</div>
+	</div>
+	<div class="result">
+		<ul id="namesList">
+		<!--names added from names.json-->
+		</ul>
+
+	</div>
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<script src="main.js"></script>
+
+	</body>
+</html>
